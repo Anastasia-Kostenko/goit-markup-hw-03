@@ -86,7 +86,7 @@ body {
 
 /* Top line/Header */
 
-.header {
+.header-top {
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -282,10 +282,6 @@ body {
   color: var(--navy-blue);
   line-height: 1.11;
   margin-bottom: 72px;
-}
-
-.two-section-items {
-  width: calc((100% - 72px) / 4);
 }
 
 /* Team section */
