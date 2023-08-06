@@ -307,6 +307,7 @@ body {
 
 .team-container {
   padding: 32px 0px;
+  border: 1px solid #e7e9fc;
 }
 
 .team-main-sectioun {
@@ -411,11 +412,6 @@ body {
 .dection-for-list {
   display: flex;
   gap: 24px;
-}
-
-.team-container {
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
 }
 
 .btn-list {
