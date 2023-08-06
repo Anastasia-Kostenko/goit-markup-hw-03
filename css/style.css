@@ -358,6 +358,10 @@ body {
 
 /* Portfolio */
 
+.container-portfolio {
+  border: 1px solid #e7e9fc;
+}
+
 .btn-menu {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
