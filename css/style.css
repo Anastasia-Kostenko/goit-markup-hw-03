@@ -86,7 +86,7 @@ body {
 
 /* Top line/Header */
 
-.header-top {
+.header {
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -414,7 +414,7 @@ body {
 }
 
 .team-container {
-  padding: 32px 0;
+  padding: 32px 16px;
   border: 1px solid #e7e9fc;
 }
 
