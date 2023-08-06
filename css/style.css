@@ -358,7 +358,7 @@ body {
 
 /* Portfolio */
 
-.container-portfolio {
+.container {
   border: 1px solid #e7e9fc;
 }
 
@@ -439,7 +439,7 @@ body {
 }
 
 .card-wrapper {
-  border: 1px solid var(--border);
+  border: 1px solid #e7e9fc;
   padding: 32px 16px;
   border-top: none;
 }
