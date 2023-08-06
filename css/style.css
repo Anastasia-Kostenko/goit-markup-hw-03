@@ -87,7 +87,7 @@ body {
 /* Top line/Header */
 
 .header {
-  border-bottom: 1px solid var(--cornflower);
+  border-bottom: 1px solid #e7e9fc;
 }
 
 .header-container {
@@ -284,6 +284,10 @@ body {
   margin-bottom: 72px;
 }
 
+.two-section-items {
+  width: calc((100% - 72px) / 4);
+}
+
 /* Team section */
 
 .team-section {
@@ -367,7 +371,7 @@ body {
   background-color: var(--cloud);
   padding: 12px 24px;
   border-radius: 4px;
-  border: 1px solid var(--border);
+  border: 1px solid #e7e9fc;
 }
 
 .btn-menu:focus,
@@ -415,6 +419,7 @@ body {
 
 .team-container {
   padding: 32px 0;
+  border: 1px solid #e7e9fc;
 }
 
 .btn-list {
