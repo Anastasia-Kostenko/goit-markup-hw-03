@@ -392,7 +392,7 @@ body {
   border: 1px solid transparent;
 }
 
-.btn-list-item {
+.buttons-list {
   display: flex;
   gap: 24px;
   justify-content: center;
