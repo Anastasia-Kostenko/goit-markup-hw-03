@@ -308,7 +308,7 @@ body {
 
 .team-container {
   padding: 32px 0px;
-  border: 1px solid #e7e9fc;
+  padding-bottom: 32px;
 }
 
 .team-main-sectioun {
