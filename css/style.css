@@ -37,6 +37,7 @@ ol {
   padding: 0;
   margin: 0;
 }
+
 .link {
   text-decoration: none;
 }
@@ -243,7 +244,6 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  margin-bottom: 8px;
 }
 
 .text-advantages {
@@ -326,7 +326,6 @@ body {
   font-weight: 500;
   color: var(--navy-blue);
   line-height: 1.2;
-  margin-bottom: 38px;
   text-align: center;
   margin-bottom: 8px;
 }
@@ -361,7 +360,6 @@ body {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  height: 72px;
   max-width: 264px;
 }
 
@@ -416,7 +414,6 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--navyblue);
-  margin-bottom: 8px;
 }
 
 .portfolio-paragraph {
