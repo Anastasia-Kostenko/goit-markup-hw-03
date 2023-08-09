@@ -216,6 +216,7 @@ body {
   margin-right: auto;
   margin-left: auto;
   min-width: 169px;
+  height: 56px;
 }
 
 .hero-btn:hover,
@@ -342,6 +343,7 @@ body {
 
 .footer-logo {
   display: inline-block;
+  margin-bottom: 16px;
 }
 
 .footer-span-logo {
@@ -413,6 +415,7 @@ body {
   color: var(--white);
   background-color: var(--ocean);
   border: 1px solid #e7e9fc;
+  border: 1px solid transparent;
   border-radius: 4px;
 }
 
