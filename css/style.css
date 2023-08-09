@@ -111,7 +111,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
-  padding: 24px 0;
 }
 
 .span-logo {
@@ -340,6 +339,7 @@ body {
 
 .footer-logo {
   display: inline-block;
+  margin-bottom: 16px;
 }
 
 .footer-span-logo {
