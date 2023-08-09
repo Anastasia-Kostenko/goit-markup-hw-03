@@ -343,7 +343,6 @@ body {
 
 .footer-logo {
   display: inline-block;
-  margin-bottom: 16px;
 }
 
 .footer-span-logo {
@@ -370,7 +369,6 @@ body {
   border: 1px solid var(--cornflower);
   padding: 32px 16px;
   border-top: none;
-  margin-bottom: 8px;
 }
 
 .portfolio-title {
